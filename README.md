@@ -46,12 +46,6 @@ Make sure you have the following installed on your machine:
 <br/>**Cloning the Repository**
 
 
-```bash
-git clone https://github.com/JavaScript-Mastery-Pro/gsap-cc-starter.git
-cd gsap-cc-starter
-```
-
-
 <br/>**Installation**
 
 Let's install the project dependencies, from your terminal, run:
